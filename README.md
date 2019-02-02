@@ -1,6 +1,4 @@
-# bloodcellapp
-
-ICC Blood Cell App
+# BloodCellApp
 
 ## Getting Started
 
